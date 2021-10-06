@@ -4,7 +4,7 @@ My name is João Herculano, I'm from Brazil, I live in Maceió/Alagoas, and I lo
 
 - 👨‍💻 I'm a Full Stack Development student at Trybe, and Analysis and Systems Development student at Estácio College,
 - 🚀 Recently, I finished front-end projects with: HTML, CSS, JS, ReactJS, ContextAPI, Redux, and also back-end projects with: MySql, MongoDB, NodeJs and ExpressJs.
-- ✅ I'm changing my careers to full-stack development, and I feel prepared for new challenges.
+- ✅ I'm changing my career to full-stack development, and I feel prepared for new challenges.
 - ⚙️ I always seek continuous improvement with projects and courses, and I always work looking for creative solutions.
 - 😍 I'm married, I have 3 Kids, and I'm crazy about my family.
 
