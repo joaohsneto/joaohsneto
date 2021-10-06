@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=joaohsneto)
 ### Hi guys!👋
-My name is João Herculano, I'm from Brazil, I live in Maceió/Alagoas, and I love look where everyone is looking, trying to see what no one is seeing.😉
+My name is João Herculano, I'm from Brazil, I live in Maceió/Alagoas, and I love to look where everyone is looking, trying to see what no one is seeing.😉
 
 - 👨‍💻 I'm a Full Stack Development student at Trybe, and Analysis and systems development student at Estácio College,
 - 🚀 Recently, I finished front-end projects with: HTML, CSS, JS, ReactJS, ContextAPI, Redux, and also back-end projects with: MySql, MongoDB, NodeJs and ExpressJs.
