@@ -10,10 +10,9 @@ My name is João Herculano, I'm from Brazil, I live in Maceió/Alagoas, and I lo
 
 ### Connect with me!
 
-[<img align="left" alt="linkedin João Herculano | LinkedIn" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/linkedin.svg" />][linkedin]
-[<img align="left" alt="instagram João Herculano | Instagram" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/instagram.svg" />][instagram]
-[<img align="left" alt="facebook João Herculano | Gmail" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/facebook.svg" />][facebook]
-[<img align="left" alt="e-mail João Herculano | Gmail" width="30px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/bed6907f8e4f5cb5bb21299b9070f4d7c51098c0/images/svg/email.svg" />][e-mail]
+[<img align="left" alt="linkedin João Herculano | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin][<img align="left" alt="instagram João Herculano | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
+[<img align="left" alt="facebook João Herculano | Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
+[<img align="left" alt="e-mail João Herculano | Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][e-mail]
 
 [instagram]: https://www.instagram.com/joaohsneto/
 [linkedin]: https://www.linkedin.com/in/joaohsneto/
