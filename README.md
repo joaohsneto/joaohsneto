@@ -22,13 +22,13 @@ My name is João Herculano, I'm from Brazil, I live in Maceió/Alagoas, and I lo
 <br>
 ### Technologies! 💻
 <a href="https://git-scm.com/" rel="nofollow"> 
-      <img src="https://camo.githubusercontent.com/b8ee9fd2e9b26a7265ece6dbc6f5c7449928b84f45a08fe5852d6a8dfd915fb3/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f646f776e6c6f6164732f4769742d49636f6e2d31373838432e706e67" width="5%" data-canonical-src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="max-width: 100%;">
+      <img src="https://camo.githubusercontent.com/b8ee9fd2e9b26a7265ece6dbc6f5c7449928b84f45a08fe5852d6a8dfd915fb3/68747470733a2f2f6769742d73636d2e636f6d2f696d616765732f6c6f676f732f646f776e6c6f6164732f4769742d49636f6e2d31373838432e706e67" height="35px" data-canonical-src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="max-width: 100%;">
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow"> 
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="5%" style="max-width: 100%;">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" height="35px" style="max-width: 100%;">
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="nofollow"> 
-      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="5%" style="max-width: 100%;">
+      <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" height="35px" style="max-width: 100%;">
 </a>
 <a href="https://getbootstrap.com/" rel="nofollow"> 
       <img src="https://camo.githubusercontent.com/ea6a69b5b4a2b84437463a530a8f528145a8104c27ccca04af384a59350383e9/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62322f426f6f7473747261705f6c6f676f2e7376672f3235363070782d426f6f7473747261705f6c6f676f2e7376672e706e67" width="5%" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" style="max-width: 100%;">
@@ -45,6 +45,7 @@ My name is João Herculano, I'm from Brazil, I live in Maceió/Alagoas, and I lo
 <a href="https://pt-br.reactjs.org/docs/hooks-intro.html" rel="nofollow"> 
       <img src="https://camo.githubusercontent.com/f99dd236abc004625954a565d2ff35376f6c4f1bba04001b2e52a41c6422c81e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3939322f312a764e78526f49764741495875417244615352596a4c772e706e67" width="10%" data-canonical-src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" style="max-width: 100%;">
 </a>
+<br>
 <a href="https://reactrouter.com/" rel="nofollow"> 
       <img src="https://camo.githubusercontent.com/e71305aefee9d9ed7eaee86ef502980226ee843f73567ffa27a380537613adbf/68747470733a2f2f626c6f672e6b6172656e79696e672e636f6d2f7374617469632f62313766326230343930363839373937343161373935383832353061643863622f6e61762d6261722d776974682d646f742e706e67" width="9%" data-canonical-src="https://blog.karenying.com/static/b17f2b049068979741a79588250ad8cb/nav-bar-with-dot.png" style="max-width: 100%;">
 </a>
@@ -69,7 +70,7 @@ My name is João Herculano, I'm from Brazil, I live in Maceió/Alagoas, and I lo
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohsneto)](https://github.com/joaohsneto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohsneto&langs_count=8)](https://github.com/joaohsneto/github-readme-stats)
 
 ![joaohsneto's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaohsneto&theme=react&show_icons=true)
 
