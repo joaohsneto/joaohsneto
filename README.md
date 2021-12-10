@@ -19,19 +19,14 @@ I'm from Brazil, I live in Maceió/Alagoas, and I love to look where everyone is
 [linkedin]: https://www.linkedin.com/in/joaohsneto/
 [e-mail]: mailto:joaohsneto@gmail.com
 [facebook]: https://www.facebook.com/joaoherculano.desouzaneto/
-<br>
+<br><br>
 ### Technologies! 💻
-<a href="https://git-scm.com/" rel="nofollow"> 
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" data-canonical-src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" style="max-width: 100%;">
-</a>
+FRONT-END <br>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" rel="nofollow"> 
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="max-width: 100%;">
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" rel="nofollow"> 
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="max-width: 100%;">
-</a>
-<a href="https://getbootstrap.com/" rel="nofollow"> 
-      <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" style="max-width: 100%;">
 </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" rel="nofollow"> 
       <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" style="max-width: 100%;">
@@ -42,21 +37,14 @@ I'm from Brazil, I live in Maceió/Alagoas, and I love to look where everyone is
 <a href="https://redux.js.org/" rel="nofollow"> 
       <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" data-canonical-src="https://redux.js.org/img/redux-logo-landscape.png" style="max-width: 100%;">
 </a>
-<a href="https://pt-br.reactjs.org/docs/hooks-intro.html" rel="nofollow"> 
-      <img src="https://camo.githubusercontent.com/f99dd236abc004625954a565d2ff35376f6c4f1bba04001b2e52a41c6422c81e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3939322f312a764e78526f49764741495875417244615352596a4c772e706e67" height="28,5px" data-canonical-src="https://miro.medium.com/max/992/1*vNxRoIvGAIXuArDaSRYjLw.png" style="max-width: 100%;">
-</a>
-<br>
-<a href="https://reactrouter.com/" rel="nofollow"> 
-      <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" data-canonical-src="https://blog.karenying.com/static/b17f2b049068979741a79588250ad8cb/nav-bar-with-dot.png" style="max-width: 100%;">
-</a>
-<a href="https://jestjs.io/" rel="nofollow"> 
-      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" data-canonical-src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" style="max-width: 100%;">
+<br><br>
+BACK-END <br>
+
+<a href="https://www.mongodb.com/pt-br" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" data-canonical-src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" style="max-width: 100%;">
 </a>
 <a href="https://www.mysql.com/" rel="nofollow"> 
       <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" data-canonical-src="https://toppng.com/uploads/preview/mysql-logo-vector-free-download-11573934106vmvysk1ovw.png" style="max-width: 100%;">
-</a>
-<a href="https://www.mongodb.com/pt-br" rel="nofollow"> 
-      <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B" data-canonical-src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Logo.png" style="max-width: 100%;">
 </a>
 <a href="https://nodejs.org/en/" rel="nofollow"> 
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" data-canonical-src="https://e7.pngegg.com/pngimages/301/171/png-clipart-node-js-javascript-software-developer-computer-icons-angularjs-others-miscellaneous-text-thumbnail.png" style="max-width: 100%;">
@@ -64,8 +52,55 @@ I'm from Brazil, I live in Maceió/Alagoas, and I love to look where everyone is
 <a href="https://expressjs.com/" rel="nofollow"> 
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" data-canonical-src="https://expressjs.com/images/express-facebook-share.png" style="max-width: 100%;">
 </a>
+<a href="https://jwt.io/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://sequelize.org/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://socket.io/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" style="max-width: 100%;">
+</a>
 <br>
 <br>
+TESTS<br>
+<a href="https://jestjs.io/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" data-canonical-src="https://seeklogo.com/images/J/jest-logo-F9901EBBF7-seeklogo.com.png" style="max-width: 100%;">
+</a>
+<a href="https://mochajs.org/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://www.chaijs.com/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white" style="max-width: 100%;">
+</a>
+<br>
+<br>
+TOOLS<br>
+<a href="https://git-scm.com/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://www.postman.com/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://trello.com/home" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://code.visualstudio.com/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" style="max-width: 100%;">
+</a>
+<br>
+<br>
+OS<br>
+<a href="https://www.linux.org/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" style="max-width: 100%;">
+</a>
+<a href="https://www.apple.com/macos/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" style="max-width: 100%;">
+</a>
+<a href="https://www.microsoft.com/" rel="nofollow"> 
+      <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="max-width: 100%;">
+</a>
+<br><br><br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohsneto&langs_count=8)](https://github.com/joaohsneto/github-readme-stats)
 
